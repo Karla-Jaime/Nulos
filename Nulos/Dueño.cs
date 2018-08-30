@@ -8,6 +8,7 @@ namespace Nulos
 {
     class Dueño
     {
+
         public string Nombre { get; set; }
         public string FechadeNacimiento { get; set; }
     }

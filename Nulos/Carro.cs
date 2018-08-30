@@ -8,6 +8,7 @@ namespace Nulos
 {
     class Carro
     {
+        //Atributos de clase carro
         public string Marca { get; set; }
         public string Año { get; set; }
         public float Kilometraje { get; set; }
